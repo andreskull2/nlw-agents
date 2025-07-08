@@ -2,7 +2,8 @@
 - HyperText
     - Texto puros, livros, revistas, jornais
     - Links: acessar outros documentos
-    - Imaggens, vídeos, áudios
+    - Imagens, vídeos, áudios
+
 - Markup
     - Marcação
     - Tags: <a> Link </a>
@@ -15,26 +16,35 @@
 
 # HTTP 
 - HyperText
-- Tranfer
-    - Transferencia
+
+- Transfer
+    - Transferência
+
 - Protocol
     - Protocolo
     - Conjunto de regras
+- Methods HTTP (verbos): Get, Post, Patch/Put, Delete
+- Headers (cabeçalhos): Instruções/Informações extras para cada chamada
 
 # URL
 - Uniform
     - Uniform
+
 - Resource
     - Recurso
+
 - Locator
     - LocalizaEncontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3, ...)
+
 - Endereço
 
 # IP
 - Internet
     - Rede mundial de computadores
+
 - Protocol
     - Conjunto de regras
+
 Endereço do computador
 rocketseat.com.br (domínio)
 123.32.1.23 (ip) 
@@ -42,23 +52,29 @@ rocketseat.com.br (domínio)
 # DNS
 - Domain
     - Domínio
+
 - Name
     - Nome
+
 - Server
     - Servidor
 
 # CSS
 - Cascading
+
 - Cascata
     - Regras das escritas
     - Hierarquia
     - Especificidade
+
 - Style
     - Estilo
+
 - Sheet
     - Folha
         
 De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
+
 - declaração
 - seletor
 - propriedade e valor
@@ -72,6 +88,7 @@ De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A
     - Agrupamento e reuso de código
     - Sequencia lógica
     - Saída
+    
 - Gemini (IA): esperar uma resposta
 - Mexer no meu navegador
 - Estrutura de dados
