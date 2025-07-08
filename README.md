@@ -12,3 +12,57 @@
 - Language
     - Linguagem
     - Sintaxe: maneira de escrever
+
+# HTTP 
+- HyperText
+- Tranfer
+    - Transferencia
+- Protocol
+    - Protocolo
+    - Conjunto de regras
+
+# URL
+- Uniform
+    - Uniform
+- Resource
+    - Recurso
+- Locator
+    - LocalizaEncontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3, ...)
+- Endereço
+
+# IP
+- Internet
+    - Rede mundial de computadores
+- Protocol
+    - Conjunto de regras
+Endereço do computador
+rocketseat.com.br (domínio)
+123.32.1.23 (ip) 
+
+# DNS
+- Domain
+    - Domínio
+- Name
+    - Nome
+- Server
+    - Servidor
+
+# CSS
+    - Cascading
+        - Cascata
+        - Regras das escritas
+        - Hierarquia
+        - Especificidade
+    - Style
+        - Estilo
+    - Sheet
+        - Folha
+        
+    De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
+        - declaração
+        - seletor
+        - propriedade e valor
+        
+         
+
+
