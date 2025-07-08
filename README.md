@@ -48,21 +48,51 @@ rocketseat.com.br (domínio)
     - Servidor
 
 # CSS
-    - Cascading
-        - Cascata
-        - Regras das escritas
-        - Hierarquia
-        - Especificidade
-    - Style
-        - Estilo
-    - Sheet
-        - Folha
+- Cascading
+- Cascata
+    - Regras das escritas
+    - Hierarquia
+    - Especificidade
+- Style
+    - Estilo
+- Sheet
+    - Folha
         
-    De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
-        - declaração
-        - seletor
-        - propriedade e valor
-        
-         
+De um arquivo que terá na sua sintaxe, declarações, propriedades e valores. A partir disso, o HTML é impactado visualmente.
+- declaração
+- seletor
+- propriedade e valor
+
+# JS
+- Linguagem de programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis
+- Function
+    - Agrupamento e reuso de código
+    - Sequencia lógica
+    - Saída
+- Gemini (IA): esperar uma resposta
+- Mexer no meu navegador
+- Estrutura de dados
+- Estrutura de decisão
+- Algoritmo: Sequência de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica
+    - Abstração
+    - Decomposição
+    - Algoritmo
+    - Reconhecimento de padrão
+- Tipos de dados
+    - Number (números)
+    - String (textos) (" ", ' ', ` `)
+    - Boolean: true | false
+    - Objects
+    - ...
+
+# DOM
+- Document
+- Object
+- Model        
+
 
 
