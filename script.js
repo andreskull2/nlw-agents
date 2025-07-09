@@ -51,9 +51,9 @@ const perguntarAI = async (question, game, apiKey) => {
         }]
     }]
 
-    const tools = [{
-        google_search: {}
-    }]
+    // const tools = [{
+    //     google_search: {}
+    // }]
 
     // chamada API
     const response = await fetch(geminiURL, {
@@ -63,7 +63,7 @@ const perguntarAI = async (question, game, apiKey) => {
         },
         body: JSON.stringify({
             contents,
-            tools
+            // tools
         })
     })
 
