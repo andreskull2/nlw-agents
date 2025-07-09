@@ -5,3 +5,6 @@ Além disso, vamos aprender os conceitos fundamentais da internet como HTTP, URL
 
 # Aula 2 - Os primeiros passos com o JavaScript
 Nessa aula, vamos sair um pouco da teoria e colocar a mão na massa! Depois de montar a estrutura do projeto com HTML e aplicar estilos com CSS, chegou a hora de dar vida à nossa página. Aprendemos como o JavaScript permite adicionar interatividade, vimos conceitos como variáveis, funções e lógica de programação, além de entender o que é o DOM e como ele nos ajuda a conversar com o navegador. A partir daqui, a mágica começa a acontecer!
+
+# Aula 3 - O poder da Inteligência
+Nessa aula, vamos entrar no universo da Inteligência Artificial! Vamos aprender como integrar um IA ao nosso projeto, explorando conceitos como LLMs(Modelos de Linguagem de Grande Escala) e agentes de IA. Também vamos dar os primeiros passos em engenharia de prompt, entendendo como conversar com a IA de forma mais estratégica usando técnicas como one-shot, few-shot e chain of thought para obter respostas mais precisas e úteis. Mais do que teoria: você viu na prática como a IA pode transformar aplicações.
